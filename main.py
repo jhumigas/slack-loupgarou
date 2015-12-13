@@ -1,6 +1,6 @@
 #IMPORTANT, il faut renseigner le token du bot dans private.py
 #Il est identifie par la variable "token"
-#Pour des raisons evidentes de securite ne commite pas le token du bot, pensez au .gitignore s'il vous plait
+#Pour des raisons evidentes de securite ne commitez pas le token du bot, pensez au .gitignore s'il vous plait
 #
 #Pour plus d'infos n'hesitez pas a joigner le chan loupgarou-dev
 #
