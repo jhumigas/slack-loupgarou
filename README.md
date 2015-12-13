@@ -2,4 +2,4 @@
 
 Integration pour jouer au loup-garou sur slack
 
-Pas encore complète 
+`pip install -r requirements.txt`
